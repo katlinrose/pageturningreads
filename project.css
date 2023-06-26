@@ -1,0 +1,37 @@
+body{
+	backgound-color:#B8E0F6;
+	
+	font: 25px Comic Sans MS;		
+}
+a{
+	text-decoration: none;
+	color: #E6E6FA;
+}
+
+a:hover{
+	color:#FFFF8F; 
+}
+
+a:active{
+	color:#98FB98;
+}
+.container{
+	width: 80%;
+	margin:auto;
+}
+
+.box-1{
+	background-color:#AAD9CD;
+	color: black;
+	border: 10px #E7CBA9 dotted;
+	
+
+}
+
+.box-2{
+	background-color:#E8D595;
+	color:black;
+	border: 10px #A57283 dotted;
+}
+
+
